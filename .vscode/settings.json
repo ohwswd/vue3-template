@@ -1,0 +1,5 @@
+{
+  "vetur.completion.autoImport": true,
+  "vetur.format.enable": true,
+  "vetur.validation.script": false
+}
